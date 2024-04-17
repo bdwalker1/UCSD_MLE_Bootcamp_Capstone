@@ -23,6 +23,9 @@ transferred, etc.)
 **Chosen dataset:**
 Malware Detection in Network Traffic Data
 
+Data files are located in this repository's data directory.
+The files are stored using GitHub Large File Storage (LFS).
+
 **Dataset source:**
 https://www.kaggle.com/datasets/agungpambudi/network-malware-detection-connection-analysis/
 
