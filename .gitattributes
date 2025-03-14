@@ -1,3 +1,4 @@
+* text=auto
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 /data/MalwareDetectionInNetworkTrafficData/testing/*.txt filter=lfs diff=lfs merge=lfs -text
