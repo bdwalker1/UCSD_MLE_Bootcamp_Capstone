@@ -1,7 +1,34 @@
 # UCSD_MLE_Bootcamp_Capstone
 
-Respository for files, data, etc. related to my capstone 
-project for the UCSD MLE/AI Bootcamp(Mar 24 Cohort)
+This respository contains the groundwork for my UCSD Machine Learning Bootcamp
+capstone project. The project lifecyle includes many steps, such as:
+1) Finding/choosing a dataset to work with
+2) Reviewing previous projects using the data
+3) Doing data exploration and cleaning
+4) Experimenting with different machine learning (ML) models
+5) Hypertuning the chosen ML model
+6) Developing a deployment plan for the model
+7) Planning for ongoing monitoring and maintenance of the project
+7) Building and deploying the ML model
+
+The repository for the final project can be found at this link:
+
+https://github.com/bdwalker1/MalignantNetTrafficPredictor
+
+The groundwork starts with assignment 16.4.2 which you will find described
+in the "Collect Your Data" section below. The work continues in the
+numbered documents found in the root of this repository. Data files and
+supporting code are found in the `/data/` and `/PreviousWorkReview/` folders
+in this repository.
+
+The journey of completing this capstone project has helped me gain 
+an understanding of machine leanring/artificial intelligence (ML/AI)
+project lifecyle. One of the most important pieces of knowledge I gained
+is that the development of a ML/AI project is an ongoing process. The 
+deployment of a solution is not the end of the project. There needs to be
+an ongoing cycle of monitoring, updating, re-training, and re-deployment
+to ensure the ML solution continues to provide the expected value it is
+intended to.
 
 ---
 ## 16.4.2 - Collect Your Data
