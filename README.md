@@ -15,7 +15,10 @@ The repository for the final project can be found at this link:
 
 https://github.com/bdwalker1/MalignantNetTrafficPredictor
 
-The groundwork starts with assignment 16.4.2 which you will find described
+The groundwork starts when I began thinking about what sort of
+problems could be solved or helped with ML. Once I chose network
+security as my focus, I looked for relavent datasets.
+My journey continues with assignment 16.4.2 which you will find described
 in the "Collect Your Data" section below. The work continues in the
 numbered documents found in the root of this repository. Data files and
 supporting code are found in the `/data/` and `/PreviousWorkReview/` folders
